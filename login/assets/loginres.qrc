@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>close.svg</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>login.css</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img.gif</file>
+    </qresource>
+</RCC>

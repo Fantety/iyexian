@@ -1,0 +1,72 @@
+#login_widget{
+    background-color: #ffffff;
+}
+#login_id_label{
+    font-family: "Microsoft YaHei","SimHei";
+    font-size: 18px;
+}
+#login_passwd_label{
+    font-family: "Microsoft YaHei","SimHei";
+    font-size: 18px;
+}
+#login_id_edit{
+    font-family: "Microsoft YaHei","SimHei";
+    font-size: 18px;
+    border-bottom-color:qlineargradient(x1:0, y1:0, x2:1, y2:0,stop:0 #3c53ef,stop:1 #00befc);
+    border-style:solid;
+    border-top-color:#abb2bf;
+    border-bottom-width:3px;
+    border-top-width:1px;
+
+}
+#login_passwd_edit{
+    font-family: "Microsoft YaHei","SimHei";
+    font-size: 18px;
+    border-bottom-color:qlineargradient(x1:0, y1:0, x2:1, y2:0,stop:0 #3c53ef,stop:1 #00befc);
+    border-top-color:#abb2bf;
+    border-style:solid;
+    border-bottom-width:3px;
+    border-top-width:1px;
+
+}
+
+
+
+#login_close_btn{
+    background-color: rgba(0,0,0,0);
+}
+#login_close_btn:hover{
+    background-color: rgba(0,0,0,50);
+    border-radius:20px;
+}
+#login_close_btn{
+    background-color: rgba(0,0,0,0);
+}
+
+#login_btn{
+    font-family: "Microsoft YaHei","SimHei";
+    font-size: 20px;
+    color: white;
+    background-color: qlineargradient(x1:0, y1:0, x2:0.5, y2:0, stop:0 #00befc ,stop:1 #1c8ffa);
+    border-radius: 10px;
+}
+
+#login_btn:hover{
+    font-family: "Microsoft YaHei","SimHei";
+    font-size: 20px;
+    color: white;
+    background-color: qlineargradient(x1:0, y1:0, x2:0.5, y2:0, stop:0 #00befc ,stop:1 #1c8ffa);
+    border-radius: 10px;
+}
+
+#login_btn:pressed{
+    font-family: "Microsoft YaHei","SimHei";
+    font-size: 20px;
+    color: white;
+    background-color: qlineargradient(x1:0, y1:0, x2:0.5, y2:0, stop:0 #00befc ,stop:1 #1c8ffa);
+    border-radius: 10px;
+}
+#login_bottom_widget{
+    border-radius: 10px;
+    background-color: white;
+}
